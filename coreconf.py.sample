@@ -1,0 +1,4 @@
+conf = {
+    'server': 's10',
+    'id': 'username'
+}
