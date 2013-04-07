@@ -3,6 +3,11 @@ pre-coreserver
 
 Coreserver への SSH アクセスに必要な IP 登録を自動でしてくれます。
 
+```bash
+$ cp coreconf.py.sample coreconf.py
+$ # edit coreconf.py
+$ python coreserver.py
+```
 
 TODO
 ----
